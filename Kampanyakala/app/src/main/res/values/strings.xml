@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kampanyakala</string>
+    <string name="title_activity_notification_intent">NotificationIntent</string>
+    <string name="title_activity_notification_view">NotificationView</string>
+</resources>
